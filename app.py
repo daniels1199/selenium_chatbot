@@ -6,7 +6,7 @@ from time import sleep
 
 def automate_process():
     
-    #CHANGE THIS DATA before starting application
+    #CHANGE THESE DATA before starting application
     msg = 'Type your custom message here.'
     contacts = ["My Number", "Foo", "Bar", "Foobar", "Barfoo", "FooBar2"]
     
