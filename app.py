@@ -7,8 +7,8 @@ from time import sleep
 def automate_process():
     
     #CHANGE THIS DATA before starting application
-    msg = 'Type your custom message here.'
-    contacts = ["My Number", "Foo", "Bar", "Foobar", "Barfoo", "FooBar2"]
+    msg = 'Esta é uma mensagem automatizada com Selenium.'
+    contacts =["Meu Numero", "Grupo 01", "Grupo 02", "Grupo 03", "Grupo 04", "Grupo 05"]
     
     #Configuring Browser 
     options = webdriver.ChromeOptions()
